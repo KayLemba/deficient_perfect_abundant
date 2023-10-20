@@ -3,7 +3,7 @@
 
 # 📗 Table of Contents
 
-- [Enumerable](#enumerable)
+- [Deficient_Perfect_Abundant](#Deficient_abundant_Perfect)
 - [📗 Table of Contents](#-table-of-contents)
 - [🎯 Create own Enumerable](#-create-own-enumerable)
   - [🛠 Built With ](#-built-with-)
@@ -24,8 +24,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🎯 Create own Enumerable<a name="about-project"></a>
-This is a ruby program that generates the list of all possible products of two factors that add up to 900900, sorted in ascending order by the first factor.
+# <a name="about-project"></a>
+This is a ruby program that allows allows a user to enter an integer and tells them if it is a deficient, perfect or abundant number.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
